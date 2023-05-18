@@ -11,7 +11,6 @@
 
 # Projeto de automação de processos com Python 
 ## Sobre o projeto:
-### Desenvolvido em Live da Hashtag Programação, em que o programa:
 - Baixa arquivo CSV utilizando pyAutoGui
 - Interpreta arquivo com Pandas
 	- Calcula preço total
@@ -25,3 +24,11 @@ Objetivo:
  - Classificar clientes com uma nota de 1 a 100
  - Com isso, descobrir o perfil de cliente ideal.
  - Gerar gráfico para visualizar dados com Plotly
+
+
+# Automação Web e Busca de Informações com Python
+Objetivo:
+ - Buscar na internet cotação atualizada de certas comoditties
+ - Comparar com um preço ideal 
+ - Retornar se recomenda ou não a compra
+ - Exporta para uma nova tabela Excel
