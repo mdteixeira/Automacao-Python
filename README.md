@@ -7,6 +7,7 @@
 - Pandas
 - Time
 - Plotly
+- Selenium (WebDriver)
 
 # Projeto de automação de processos com Python 
 ## Sobre o projeto:
