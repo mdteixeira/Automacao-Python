@@ -8,6 +8,7 @@
 - Time
 - Plotly
 - Selenium (WebDriver)
+- SKLearn
 
 # Projeto de automação de processos com Python 
 ## Sobre o projeto:
@@ -32,3 +33,9 @@ Objetivo:
  - Comparar com um preço ideal 
  - Retornar se recomenda ou não a compra
  - Exporta para uma nova tabela Excel
+
+# Projeto de Inteligencia Artificial Python
+Objetivo:
+ - Analisar dados CSV com Pandas
+ - Prever o preço a partir de caracteristicas dos barcos
+ - Gerar gráfico para visualizar dados com Plotly
